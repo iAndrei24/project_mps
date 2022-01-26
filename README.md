@@ -1,7 +1,7 @@
 # project_mps
 
-Echipa:
-Gavrilescu Dragoș-Mihai
-Vaduva Andrei-Mihai
-Dragan Alin-Ionut
-Bacanu Ana-Maria-Alexandra
+Echipa:<br />
+Gavrilescu Dragoș-Mihai<br />
+Vaduva Andrei-Mihai<br />
+Dragan Alin-Ionut<br />
+Bacanu Ana-Maria-Alexandra<br />
