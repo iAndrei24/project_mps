@@ -1,0 +1,12 @@
+﻿  ACT.cpp
+  ACT_Tst.cpp
+  CTRL.cpp
+  CTRL_Tst.cpp
+  Env.cpp
+C:\Users\aimva\source\repos\ConsoleCO2Applicatrion\Env.cpp(73,22): warning C4244: 'initializing': conversion from 'UINT_PTR' to 'uint8_t', possible loss of data
+  SEN.cpp
+  SEN_Tst.cpp
+  Tst.cpp
+  VLD_Tst.cpp
+  Generating Code...
+  ConsoleCO2Applicatrion.vcxproj -> C:\Users\aimva\source\repos\ConsoleCO2Applicatrion\x64\Debug\ConsoleCO2Applicatrion.exe
